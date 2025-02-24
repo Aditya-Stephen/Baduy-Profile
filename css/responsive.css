@@ -208,7 +208,7 @@
         margin-top: 15px;
     }
     .header_style_01 {
-        background-color: #ffffff;
+        background-color: #021526;
         display: block;
         left: 0;
         padding: 20px 0px !important;
@@ -220,13 +220,13 @@
     }
     .navbar-default .navbar-toggle {
         border-color: #393939;
-        color: #fff !important;
+        color: #021526 !important;
         background-color: #393939;
 		border-radius: 15px 0px 15px 0px; 
     }
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
-		border-color: #fd6802;
-		background-color: #fd6802;
+		border-color: #03346E;
+		background-color: #03346E;
 	}
     .navbar-default .navbar-collapse,
     .navbar-default .navbar-form {
